@@ -1,0 +1,26 @@
+cd 
+Para moverme de directorio
+
+ls 
+para listar 
+
+init 
+para crear un repositorio
+
+git status
+para ver el status de los archivos
+
+git add . 
+para agregar todos los arcivos al repositorio
+
+git commit "nombre del commit"
+Para agregar un commit 
+
+git tag nombre_de_tag
+para agregar un tag al commit
+
+git checkout nombre_de_tag
+para cambiar de version del repositorio
+
+git checkout master
+Para volver a la version mas nueva
