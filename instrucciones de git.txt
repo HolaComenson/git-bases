@@ -24,3 +24,6 @@ para cambiar de version del repositorio
 
 git checkout master
 Para volver a la version mas nueva
+
+git push origin --delete nombre_de_tag
+para borrar un tag de github
